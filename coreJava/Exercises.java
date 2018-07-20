@@ -2,6 +2,7 @@ package coreJava;
 
 public class Exercises {
 
+	/* Example to demonstrate Core Java */
 	
 	public static void main( String[] args) {
 		
